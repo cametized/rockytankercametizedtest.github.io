@@ -1,5 +1,5 @@
 // Initialization
-const url = 'https://raw.githubusercontent.com/Ethan76167/TRIA.OS-Difficulty-List/refs/heads/main/migrated.md';
+const url = 'https://raw.githubusercontent.com/cametized/TRIA.OS-Difficulty-List/refs/heads/main/migrated.md';
 var result, fetched
 var listArray = []
 
